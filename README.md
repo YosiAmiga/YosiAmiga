@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YosiAmiga
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Information systems at University of Haifa.
-- 📫 How to reach me: yosiamiga1710@gmail.com
+- 📫 How to reach me: yosiamiga1710@gmail.com or https://www.linkedin.com/in/yosi-amiga-633243178/
 
 <!---
 YosiAmiga/YosiAmiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
